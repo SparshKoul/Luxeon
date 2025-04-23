@@ -39,9 +39,13 @@ cd Luxeon
 
 <p>⭐️ <strong>If you love fashion and clean code, give Luxeon a star!</strong></p>
 
-<img src="./c:\Users\USER\OneDrive\Desktop\Luxeon-1.jpg" alt="Home Page">
+## 🖼️ Project Preview
 
-<img src="./c:\Users\USER\OneDrive\Desktop\Luxeon-2.jpg" alt="Home Page">
+### Homepage
+![Homepage](./photos/Luxeon-1.jpg)
 
-<img src="./c:\Users\USER\OneDrive\Desktop\Luxeon-3.jpg" alt="About Us">
+### Latest Collections
+![Collections](./photos/Luxeon-2.jpg)
 
+### Meet the Team
+![Team Section](./photos/Luxeon-3.jpg)
