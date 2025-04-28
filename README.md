@@ -35,7 +35,7 @@ cd Luxeon
 
 <h2>📬 Contact</h2>
 <p>Have questions or feedback?<br>
-📧 Email: <a href="shivennagpal8@gogle.com">shivennagpal8@gmail.com</a><br>
+📧 Email: <a href="https://mail.google.com/">shivennagpal8@gmail.com</a><br>
 
 <p>⭐️ <strong>If you love fashion and clean code, give Luxeon a star!</strong></p>
 
