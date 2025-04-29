@@ -87,6 +87,8 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('resize', handleResize);
     
     // active class to nav link 
+    // Highlight the current active navigation link as user scrolls
+
     function setActiveNavLink() {
       const sections = document.querySelectorAll('section[id]');
       let scrollY = window.pageYOffset;
