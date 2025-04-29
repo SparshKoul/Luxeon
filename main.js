@@ -48,6 +48,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Form submission handlers
+    // Handle contact form and newsletter form submissions with success messages
+
     const contactForm = document.getElementById('contact-form');
     if (contactForm) {
       contactForm.addEventListener('submit', function(e) {
