@@ -69,6 +69,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Responsive adjustments
+    // Adjust mobile menu visibility on window resize
+
     function handleResize() {
       const windowWidth = window.innerWidth;
       
