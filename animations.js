@@ -93,7 +93,8 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
     
-    // Instagram image hover effect
+    // hover image effect instagram
+    
     const instagramImages = document.querySelectorAll('.instagram-image');
     instagramImages.forEach(image => {
       image.addEventListener('mouseenter', () => {
