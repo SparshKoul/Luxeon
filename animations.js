@@ -39,6 +39,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Product card hover effects
+    // hover effects on product card 
+    //new hover
     const productCards = document.querySelectorAll('.product-card');
     productCards.forEach(card => {
       card.addEventListener('mouseenter', () => {
@@ -80,8 +82,9 @@ document.addEventListener('DOMContentLoaded', function() {
         input.style.borderColor = '#e0e0e0';
       });
     });
-    
+
     // Form button hover animation
+    // added hover animation to button
     const formButtons = document.querySelectorAll('.form-submit, .newsletter-button');
     formButtons.forEach(button => {
       button.addEventListener('mouseenter', () => {
@@ -94,6 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Instagram image hover effect
+    // hover image effect instagram
     const instagramImages = document.querySelectorAll('.instagram-image');
     instagramImages.forEach(image => {
       image.addEventListener('mouseenter', () => {

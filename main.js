@@ -1,5 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu toggle
+    // Toggle mobile menu visibility on button click
+
+
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
     
@@ -12,8 +15,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       });
     }
-    
+
     // Close mobile menu when clicking menu items
+    // Close mobile menu while clicking on any menu's item
     const mobileMenuItems = mobileMenu ? mobileMenu.querySelectorAll('a') : [];
     mobileMenuItems.forEach(item => {
       item.addEventListener('click', function() {
@@ -22,6 +26,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Smooth scroll for navigation links
+    // Implement smooth scrolling for navigation links
+
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       anchor.addEventListener('click', function(e) {
         e.preventDefault();
@@ -44,6 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Form submission handlers
+    // Handle contact form and newsletter form submissions with success messages
     const contactForm = document.getElementById('contact-form');
     if (contactForm) {
       contactForm.addEventListener('submit', function(e) {
@@ -63,6 +70,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Responsive adjustments
+    // Adjust mobile menu visibility on window resize
+
+ 
     function handleResize() {
       const windowWidth = window.innerWidth;
       
@@ -79,6 +89,8 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('resize', handleResize);
     
     // Add active class to current nav link
+    // active class to nav link 
+    // Highlight the current active navigation link as user scrolls
     function setActiveNavLink() {
       const sections = document.querySelectorAll('section[id]');
       let scrollY = window.pageYOffset;
