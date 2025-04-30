@@ -83,7 +83,6 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
 
-    // Form button hover animation
     // added hover animation to button
     const formButtons = document.querySelectorAll('.form-submit, .newsletter-button');
     formButtons.forEach(button => {
