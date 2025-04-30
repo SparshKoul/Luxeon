@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }
     
-    function isElementInViewport(el) {
+   function isElementInViewport(el) {
       const rect = el.getBoundingClientRect();
       return (
         rect.top <= (window.innerHeight || document.documentElement.clientHeight) * 0.9 &&
