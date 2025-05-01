@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }, 300 * (index + 1));
     });
     
-    // Product card hover effects
+    //  Product card hover effects
     // hover effects on product card 
     //new hover
     const productCards = document.querySelectorAll('.product-card');
