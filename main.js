@@ -1,8 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Mobile menu toggle
     // Toggle mobile menu visibility on button click
-
-
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
     
