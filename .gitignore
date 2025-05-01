@@ -20,6 +20,8 @@ Desktop.ini
 
 # Environment files
 .env
+.env.*
+
 
 # Coverage
 coverage/
