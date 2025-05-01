@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Add scroll event listener
     window.addEventListener('scroll', animateOnScroll);
-    
+
     function animateOnScroll() {
       animateElements.forEach(element => {
         if (isElementInViewport(element)) {
@@ -30,6 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Apply staggered animations to hero content
+    // Hero section staggered animations
     const heroAnimatedElements = document.querySelectorAll('.hero .animate-in');
     heroAnimatedElements.forEach((element, index) => {
       setTimeout(() => {
