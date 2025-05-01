@@ -13,7 +13,6 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }
 
-    // Close mobile menu when clicking menu items
     // Close mobile menu while clicking on any menu's item
     const mobileMenuItems = mobileMenu ? mobileMenu.querySelectorAll('a') : [];
     mobileMenuItems.forEach(item => {
