@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Initialize with initial viewport check
     animateOnScroll();
-    
     // Add scroll event listener
     window.addEventListener('scroll', animateOnScroll);
 
