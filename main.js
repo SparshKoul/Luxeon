@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
     
-    // Handle contact form and newsletter form submissions with success messages
+    // Handle contact form and newsletter form submissions with success messages too 
     const contactForm = document.getElementById('contact-form');
     if (contactForm) {
       contactForm.addEventListener('submit', function(e) {
