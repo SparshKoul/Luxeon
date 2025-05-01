@@ -71,6 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Highlight form inputs on focus
+    // Form input focus/blur styles
     const formInputs = document.querySelectorAll('.form-input, .form-textarea, .newsletter-input');
     formInputs.forEach(input => {
       input.addEventListener('focus', () => {
