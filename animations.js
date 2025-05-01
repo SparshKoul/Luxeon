@@ -40,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     //  Product card hover effects
     // hover effects on product card 
-    //new hover
     const productCards = document.querySelectorAll('.product-card');
     productCards.forEach(card => {
       card.addEventListener('mouseenter', () => {
