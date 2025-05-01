@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
           document.querySelectorAll('.mobile-nav-link').forEach(link => {
             link.classList.remove('active');
             if (link.getAttribute('href') === '#' + sectionId) {
-              link.classList.add('active');
+              link.classList.add('active');  // Add 'active' class to the link corresponding to the current section
             }
           });
         }
