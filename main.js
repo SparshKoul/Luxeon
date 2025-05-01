@@ -64,7 +64,6 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }
     
-    // Responsive adjustments
     // Adjust mobile menu visibility on window resize
 
  
