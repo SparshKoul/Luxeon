@@ -96,7 +96,8 @@ document.addEventListener('DOMContentLoaded', function() {
               link.classList.add('active');
             }
           });
-          
+            
+          // // Loop through all mobile navigation links
           document.querySelectorAll('.mobile-nav-link').forEach(link => {
             link.classList.remove('active');
             if (link.getAttribute('href') === '#' + sectionId) {
