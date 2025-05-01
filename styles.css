@@ -1,6 +1,13 @@
 /* Base Styles */
 :root {
-    
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+    --color-gray: #F5F5F5;
+    --color-gray-light: #F7F7F7;
+    --color-gray-dark: #333333;
+    --color-gray-medium: #7d7d7d;
+    --color-border: #e0e0e0;
+    --color-yellow: #ffc107;
 
 
     
