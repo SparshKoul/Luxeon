@@ -38,7 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
       }, 300 * (index + 1));
     });
     
-    //  Product card hover effects
     // hover effects on product card 
     const productCards = document.querySelectorAll('.product-card');
     productCards.forEach(card => {
