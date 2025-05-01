@@ -27,7 +27,6 @@ document.addEventListener('DOMContentLoaded', function() {
         rect.bottom >= 0
       );
     }
-    
     // Apply staggered animations to hero content
     // Hero section staggered animations
     const heroAnimatedElements = document.querySelectorAll('.hero .animate-in');
