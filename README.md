@@ -18,7 +18,7 @@
 
 <h2>🛠 Tech Stack</h2>
 <ul>
-  <li><strong>Frontend</strong>: HTML, CSS, Js</li>
+  <li><strong>Frontend</strong>: HTML, CSS, Js.</li>
 </ul>
 
 <h2>🚀 Getting Started</h2>
