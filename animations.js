@@ -2,8 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Fade in animations on scroll
    // Scroll-triggered fade-in animations
     const animateElements = document.querySelectorAll('.animate-in, .product-card, .feature-card, .testimonial-card');
-
-
     // Initialize with initial viewport check
     animateOnScroll();
     // Add scroll event listener
