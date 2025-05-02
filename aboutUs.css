@@ -71,7 +71,6 @@
             flex-direction: column;
             transition: 0.5s;
         }
-
         .container .card:hover .content {
             transform: translateY(-10px);
         }
