@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', function() {
         element.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
       }, 300 * (index + 1));
     });
-    
     // hover effects on product card 
     const productCards = document.querySelectorAll('.product-card');
     productCards.forEach(card => {
