@@ -32,7 +32,7 @@ cd Luxeon
 <p>We welcome your contributions! If you have ideas to enhance Luxeon, feel free to fork the repo, open issues, or submit pull requests.</p>
 
 <h2>🌐 Live Demo</h2>
-<p>🔗 <a href="https://z9wh1qk8-5501.inc1.devtunnels.ms/">View Live Website</a> <em>(TEMPORARY LINK)</em></p>
+<p>🔗 <a href="#">View Live Website</a> <em>(comming soon)</em></p>
 
 <h2>📬 Contact</h2>
 <p>Have questions or feedback?<br>
