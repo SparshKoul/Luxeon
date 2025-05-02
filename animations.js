@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
     animateOnScroll();
     // Add scroll event listener
     window.addEventListener('scroll', animateOnScroll);
-
     function animateOnScroll() {
       animateElements.forEach(element => {
         if (isElementInViewport(element)) {
