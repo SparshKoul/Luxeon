@@ -36,7 +36,6 @@
             clip-path: circle(20% at 10% 10%);
             transition: all 0.5s ease-in-out;
         }
-
         .container {
             position: relative;
             z-index: 1;
