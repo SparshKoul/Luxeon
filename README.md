@@ -4,6 +4,7 @@
 
 <p>Whether you're into classic fashion or trendy streetwear, Luxeon is your go-to destination for effortless style.</p>
 
+
 <h2>✨ Key Features</h2>
 <ul>
   <li>🔸 <strong>Modern UI/UX</strong> – Minimalist and responsive design that adapts to all screen sizes.</li>
