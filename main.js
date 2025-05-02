@@ -54,6 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
         this.reset();
       });
     }
+
     
     const newsletterForm = document.getElementById('newsletter-form');
     if (newsletterForm) {
