@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }
 
-    
+
     const newsletterForm = document.getElementById('newsletter-form');
     if (newsletterForm) {
       newsletterForm.addEventListener('submit', function(e) {
