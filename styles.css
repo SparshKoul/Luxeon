@@ -380,6 +380,7 @@
   }
   
   /* About Section */
+/* Add about section layout and styling*/
   .about {
     padding: 4rem 0;
     background-color: var(--color-gray);
