@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Simulate processing
       setTimeout(() => {
         loginForm.style.animation = "fadeOut 0.6s ease-out forwards";
- 
+
         // Reset after fake login
         setTimeout(() => {
           alert("Logged in (Demo)");
