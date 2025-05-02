@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const loginForm = document.getElementById("loginForm");
     const loginBtn = loginForm.querySelector(".login-btn");
-  
+ 
     loginForm.addEventListener("submit", (e) => {
       e.preventDefault();
       // Add loading state
