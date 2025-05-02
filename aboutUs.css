@@ -126,7 +126,6 @@
 .social-links a[href*="github"] {
     color: #333; /* GitHub black */
 }
-
 .social-links a:hover {
     opacity: 0.8;
 }
