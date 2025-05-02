@@ -36,7 +36,7 @@ cd Luxeon
 
 <h2>📬 Contact</h2>
 <p>Have questions or feedback?<br>
-📧 Email: <a href="https://mail.google.com/" target=_blank>sparshkoul6@gmail.com</a><br>
+📧 Email: <a href="https://mail.google.com/" >sparshkoul6@gmail.com</a><br>
 📧 Email: <a href="https://mail.google.com/">shivennagpal8@gmail.com</a><br>
 📧 Email: <a href="https://mail.google.com/">rijhulkaushal36@gmail.com</a><br>
 
