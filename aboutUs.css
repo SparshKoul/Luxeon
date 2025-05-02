@@ -64,7 +64,6 @@
         .container .card:hover {
             transform: translateY(-10px);
         }
-
         .container .card .content {
             display: flex;
             justify-content: center;
