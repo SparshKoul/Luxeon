@@ -1,4 +1,4 @@
-
+//login js is to be done here
 document.addEventListener("DOMContentLoaded", () => {
     const loginForm = document.getElementById("loginForm");
     const loginBtn = loginForm.querySelector(".login-btn");
