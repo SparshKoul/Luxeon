@@ -25,6 +25,7 @@
             clip-path: circle(30% at right 70%);
             transition: all 0.5s ease-in-out;
         }
+
         section::after {
             content: "";
             position: absolute;
