@@ -73,7 +73,8 @@ document.addEventListener('DOMContentLoaded', function() {
         input.style.borderColor = 'transparent';
       });
       
-      input.addEventListener('blur', () => {
+   
+        input.addEventListener('blur', () => {
         input.style.boxShadow = 'none';
         input.style.borderColor = '#e0e0e0';
       });
