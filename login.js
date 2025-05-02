@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
   
     loginForm.addEventListener("submit", (e) => {
       e.preventDefault();
-  
       // Add loading state
       loginBtn.classList.add("loading");
   
