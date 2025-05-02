@@ -92,7 +92,6 @@ document.addEventListener('DOMContentLoaded', function() {
         button.style.transform = 'translateY(0)';
       });
     });
-    
 
     // Instagram image hover effects
     const instagramImages = document.querySelectorAll('.instagram-image');
