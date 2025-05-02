@@ -62,7 +62,6 @@
             overflow: hidden;
             transition: transform 0.3s ease-in-out;
         }
-
         .container .card:hover {
             transform: translateY(-10px);
         }
