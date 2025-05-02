@@ -19,7 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       });
     }
-    
    function isElementInViewport(el) {
       const rect = el.getBoundingClientRect();
       return (
