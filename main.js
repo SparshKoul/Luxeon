@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
         mobileMenu.style.display = 'none';
       });
     });
+
     
     // Implement smooth scrolling for navigation links
 
