@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
       e.preventDefault();
       // Add loading state
       loginBtn.classList.add("loading");
-  
       // Simulate processing
       setTimeout(() => {
         loginForm.style.animation = "fadeOut 0.6s ease-out forwards";
