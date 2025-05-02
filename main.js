@@ -74,6 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
         mobileMenu.style.display = 'none';
       }
     }
+
     
     // Initial call
     handleResize();
